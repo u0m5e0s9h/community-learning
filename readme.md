@@ -69,7 +69,7 @@ cd backend
 npm install
 ```
 
-Create a `.env` file in `/backend` with the following content:
+fill th `.env` file in `/backend` with the following content:
 
 ```
 MONGO_URL=
@@ -80,28 +80,12 @@ NODE_ENV=
 
 
 # Redis Config
-REDIS_HOST=
-REDIS_PORT=
-REDIS_PASSWORD=
 
 # Reddit API
-REDDIT_CLIENT_ID=
-REDDIT_CLIENT_SECRET=
-REDDIT_REFRESH_TOKEN=
-REDDIT_USER_AGENT=
-REDDIT_REDIRECT_URI=
-
 
 # Twitter API
-TWITTER_API_KEY=
-TWITTER_API_SECRET=
-TWITTER_ACCESS_TOKEN=
-TWITTER_ACCESS_SECRET=
-
 
 # LinkedIn API
-LINKEDIN_ACCESS_TOKEN=
-LINKEDIN_COMPANY_ID=
 
 ```
 
